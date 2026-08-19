@@ -1,7 +1,7 @@
 ## 改进日志
 
 ### 2026-08-19（部署）
-- 来源：https://github.com/hezkvectory/hermes-edu-skills/tree/main/skills/learning-core/agent-memory-method
+- 来源：https://github.com/QUSEIT/quseit-learning-core/tree/main/agent-memory-method
 - 版本：0.10.0，仅含 SKILL.md
 - 部署时在 frontmatter 的 `metadata.hermes` 下加了 `deployed_from` 字段记录来源
 

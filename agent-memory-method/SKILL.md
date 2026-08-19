@@ -20,7 +20,7 @@ metadata:
     export_mode: "installable"
     release_channel: "recommended"
     requires_data: ["要记忆的文本（纯文本粘贴）", "年级", "截止时间（如有）", "已掌握程度（可选）", "容易忘的部分（可选）"]
-    deployed_from: "https://github.com/hezkvectory/hermes-edu-skills/tree/main/skills/learning-core/agent-memory-method"
+    deployed_from: "https://github.com/QUSEIT/quseit-learning-core/tree/main/agent-memory-method"
 ---
 
 # 记忆方法 Skill

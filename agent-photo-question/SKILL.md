@@ -9,7 +9,7 @@ last_updated: "2026-08-18"
 metadata:
   hermes:
     tags: ["education", "primary", "junior", "senior", "综合", "AI 讲题", "图片识题", "拍照答疑", "课后作业"]
-    source: hermes-edu-skills
+    source: quseit-learning-core
     workflow: "agent_photo_question.run"
     category: "learning-core"
     stages: ["primary", "junior", "senior"]
@@ -23,7 +23,7 @@ metadata:
     release_channel: "recommended"
     requires_tools: ["vision_analyze"]
     requires_data: ["题目图片或用户转写的题干", "学生年级", "学科"]
-    feedback_channel: "https://github.com/hezkvectory/hermes-edu-skills/issues"
+    feedback_channel: "https://github.com/QUSEIT/quseit-learning-core/issues"
 ---
 
 # 拍照答疑 Skill
