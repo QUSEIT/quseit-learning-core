@@ -45,12 +45,4 @@ skills:
 - [Issue 反馈](https://github.com/QUSEIT/quseit-learning-core/issues)
 - [Pull Request](https://github.com/QUSEIT/quseit-learning-core/pulls)
 
-## 状态
-
-![Status: experimental](https://img.shields.io/badge/status-experimental-yellow)
-
-本项目仍处于早期阶段，尚未经过大规模实测验证。`public_release: recommended` 标注表示代码质量已达到发布标准，但教育效果仍需更多使用反馈。
-
 ---
-
-*本仓库为 Hermes 教育技能集合的 learning-core 子集导出。*
